@@ -7,6 +7,6 @@ int main() {
   displayScore = (int)testScore;
 
   // No need to change below here
-  printf("Great work, you got a %d%% on your test\n", displayScore);
+  printf("Great work, you got a %d% on your test\n", displayScore);
 
 }
